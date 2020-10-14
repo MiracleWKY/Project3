@@ -1,0 +1,2834 @@
+------------------------------------------
+Day 0
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 30
+Number of Egg Roll: 30
+Number of Pastry Roll: 30
+Number of Sausage Roll: 30
+Number of Jelly Roll: 28
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 30
+Number of Egg Roll: 30
+Number of Pastry Roll: 30
+Number of Sausage Roll: 30
+Number of Jelly Roll: 27
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Egg Roll: 25
+Number of Pastry Roll: 30
+Number of Sausage Roll: 25
+Number of Jelly Roll: 27
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 23
+Number of Pastry Roll: 28
+Number of Sausage Roll: 23
+Number of Jelly Roll: 25
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 18
+Number of Pastry Roll: 28
+Number of Sausage Roll: 18
+Number of Jelly Roll: 20
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 21
+Number of Egg Roll: 16
+Number of Pastry Roll: 26
+Number of Sausage Roll: 16
+Number of Jelly Roll: 18
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 21
+Number of Egg Roll: 16
+Number of Pastry Roll: 23
+Number of Sausage Roll: 16
+Number of Jelly Roll: 18
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 19
+Number of Egg Roll: 14
+Number of Pastry Roll: 21
+Number of Sausage Roll: 14
+Number of Jelly Roll: 16
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 18
+Number of Egg Roll: 14
+Number of Pastry Roll: 21
+Number of Sausage Roll: 14
+Number of Jelly Roll: 16
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 18
+Number of Egg Roll: 14
+Number of Pastry Roll: 21
+Number of Sausage Roll: 14
+Number of Jelly Roll: 15
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 13
+Number of Egg Roll: 14
+Number of Pastry Roll: 21
+Number of Sausage Roll: 9
+Number of Jelly Roll: 10
+------------------------------------------
+Day 1
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 8
+Number of Egg Roll: 14
+Number of Pastry Roll: 21
+Number of Sausage Roll: 4
+Number of Jelly Roll: 5
+------------------------------------------
+customer.casual_customer is buying [egg_roll, sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 7
+Number of Egg Roll: 13
+Number of Pastry Roll: 21
+Number of Sausage Roll: 3
+Number of Jelly Roll: 5
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+jelly_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 7
+Number of Egg Roll: 8
+Number of Pastry Roll: 16
+Number of Sausage Roll: 3
+------------------------------------------
+customer.casual_customer is buying [egg_roll, sausage_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 7
+Number of Egg Roll: 7
+Number of Pastry Roll: 15
+Number of Sausage Roll: 2
+------------------------------------------
+customer.catering_customer is buying [pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 2
+Number of Egg Roll: 2
+Number of Pastry Roll: 10
+Number of Sausage Roll: 2
+------------------------------------------
+customer.casual_customer is buying [egg_roll, sausage_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 2
+Number of Egg Roll: 1
+Number of Pastry Roll: 9
+Number of Sausage Roll: 1
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 2
+Number of Egg Roll: 1
+Number of Pastry Roll: 8
+Number of Sausage Roll: 1
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll, egg_roll]
+------------------------------------------
+egg_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Pastry Roll: 8
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Pastry Roll: 8
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+spring_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 8
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 5
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 5
+------------------------------------------
+Day 2
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 30
+Number of Egg Roll: 29
+Number of Pastry Roll: 5
+Number of Sausage Roll: 29
+Number of Jelly Roll: 30
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 30
+Number of Egg Roll: 28
+Number of Pastry Roll: 5
+Number of Sausage Roll: 29
+Number of Jelly Roll: 30
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 30
+Number of Egg Roll: 28
+Number of Pastry Roll: 3
+Number of Sausage Roll: 29
+Number of Jelly Roll: 30
+------------------------------------------
+customer.casual_customer is buying [egg_roll, jelly_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 30
+Number of Egg Roll: 26
+Number of Pastry Roll: 3
+Number of Sausage Roll: 29
+Number of Jelly Roll: 29
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Egg Roll: 26
+Number of Pastry Roll: 3
+Number of Sausage Roll: 24
+Number of Jelly Roll: 24
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, pastry_roll, pastry_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 24
+Number of Pastry Roll: 1
+Number of Sausage Roll: 22
+Number of Jelly Roll: 22
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 24
+Number of Pastry Roll: 1
+Number of Sausage Roll: 22
+Number of Jelly Roll: 22
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 18
+Number of Egg Roll: 19
+Number of Pastry Roll: 1
+Number of Sausage Roll: 22
+Number of Jelly Roll: 17
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 17
+Number of Egg Roll: 19
+Number of Pastry Roll: 1
+Number of Sausage Roll: 22
+Number of Jelly Roll: 17
+------------------------------------------
+pastry_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, sausage_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 17
+Number of Egg Roll: 19
+Number of Sausage Roll: 20
+Number of Jelly Roll: 17
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 12
+Number of Egg Roll: 19
+Number of Sausage Roll: 15
+Number of Jelly Roll: 12
+------------------------------------------
+customer.casual_customer is buying [spring_roll, jelly_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 11
+Number of Egg Roll: 19
+Number of Sausage Roll: 15
+Number of Jelly Roll: 10
+------------------------------------------
+Day 3
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 11
+Number of Egg Roll: 14
+Number of Pastry Roll: 25
+Number of Sausage Roll: 10
+Number of Jelly Roll: 10
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 6
+Number of Egg Roll: 9
+Number of Pastry Roll: 25
+Number of Sausage Roll: 10
+Number of Jelly Roll: 5
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Egg Roll: 4
+Number of Pastry Roll: 25
+Number of Sausage Roll: 5
+Number of Jelly Roll: 5
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Egg Roll: 4
+Number of Pastry Roll: 25
+Number of Sausage Roll: 5
+Number of Jelly Roll: 5
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, sausage_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Egg Roll: 4
+Number of Pastry Roll: 25
+Number of Sausage Roll: 3
+Number of Jelly Roll: 4
+------------------------------------------
+Day 4
+------------------------------------------
+spring_roll is out of stock.
+------------------------------------------
+egg_roll is out of stock.
+------------------------------------------
+jelly_roll is out of stock.
+------------------------------------------
+customer.catering_customer is buying [pastry_roll, egg_roll, sausage_roll, spring_roll, egg_roll, pastry_roll, egg_roll, jelly_roll, egg_roll, jelly_roll, jelly_roll, sausage_roll, jelly_roll, pastry_roll, sausage_roll]
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 22
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 21
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 18
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 17
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 17
+------------------------------------------
+customer.catering_customer is buying [pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 2
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, pastry_roll]
+------------------------------------------
+pastry_roll is out of stock.
+------------------------------------------
+Inventry:
+------------------------------------------
+Day 5
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 29
+Number of Egg Roll: 30
+Number of Pastry Roll: 30
+Number of Sausage Roll: 30
+Number of Jelly Roll: 30
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 30
+Number of Pastry Roll: 25
+Number of Sausage Roll: 25
+Number of Jelly Roll: 30
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 30
+Number of Pastry Roll: 24
+Number of Sausage Roll: 25
+Number of Jelly Roll: 30
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Egg Roll: 28
+Number of Pastry Roll: 22
+Number of Sausage Roll: 23
+Number of Jelly Roll: 28
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Egg Roll: 23
+Number of Pastry Roll: 22
+Number of Sausage Roll: 18
+Number of Jelly Roll: 23
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Egg Roll: 23
+Number of Pastry Roll: 21
+Number of Sausage Roll: 18
+Number of Jelly Roll: 23
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 20
+Number of Egg Roll: 21
+Number of Pastry Roll: 19
+Number of Sausage Roll: 16
+Number of Jelly Roll: 21
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 18
+Number of Egg Roll: 19
+Number of Pastry Roll: 17
+Number of Sausage Roll: 14
+Number of Jelly Roll: 19
+------------------------------------------
+customer.casual_customer is buying [egg_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 17
+Number of Egg Roll: 18
+Number of Pastry Roll: 17
+Number of Sausage Roll: 14
+Number of Jelly Roll: 19
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 17
+Number of Egg Roll: 18
+Number of Pastry Roll: 17
+Number of Sausage Roll: 14
+Number of Jelly Roll: 18
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, egg_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 17
+Number of Egg Roll: 17
+Number of Pastry Roll: 15
+Number of Sausage Roll: 14
+Number of Jelly Roll: 18
+------------------------------------------
+customer.casual_customer is buying [spring_roll, spring_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Egg Roll: 17
+Number of Pastry Roll: 15
+Number of Sausage Roll: 14
+Number of Jelly Roll: 17
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Egg Roll: 17
+Number of Pastry Roll: 15
+Number of Sausage Roll: 14
+Number of Jelly Roll: 16
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 10
+Number of Egg Roll: 12
+Number of Pastry Roll: 15
+Number of Sausage Roll: 14
+Number of Jelly Roll: 11
+------------------------------------------
+customer.casual_customer is buying [sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 10
+Number of Egg Roll: 12
+Number of Pastry Roll: 15
+Number of Sausage Roll: 13
+Number of Jelly Roll: 11
+------------------------------------------
+Day 6
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 10
+Number of Egg Roll: 11
+Number of Pastry Roll: 15
+Number of Sausage Roll: 13
+Number of Jelly Roll: 11
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 10
+Number of Egg Roll: 11
+Number of Pastry Roll: 15
+Number of Sausage Roll: 13
+Number of Jelly Roll: 10
+------------------------------------------
+customer.casual_customer is buying [sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 10
+Number of Egg Roll: 11
+Number of Pastry Roll: 15
+Number of Sausage Roll: 12
+Number of Jelly Roll: 10
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, egg_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 9
+Number of Egg Roll: 10
+Number of Pastry Roll: 14
+Number of Sausage Roll: 12
+Number of Jelly Roll: 10
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 9
+Number of Egg Roll: 9
+Number of Pastry Roll: 14
+Number of Sausage Roll: 12
+Number of Jelly Roll: 10
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 4
+Number of Egg Roll: 4
+Number of Pastry Roll: 14
+Number of Sausage Roll: 7
+Number of Jelly Roll: 10
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 2
+Number of Egg Roll: 2
+Number of Pastry Roll: 12
+Number of Sausage Roll: 5
+Number of Jelly Roll: 8
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+spring_roll is out of stock.
+------------------------------------------
+egg_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 10
+Number of Sausage Roll: 3
+Number of Jelly Roll: 6
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 9
+Number of Sausage Roll: 3
+Number of Jelly Roll: 5
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+jelly_roll is out of stock.
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, pastry_roll, pastry_roll, sausage_roll, pastry_roll, sausage_roll, pastry_roll, jelly_roll, sausage_roll, jelly_roll, pastry_roll, jelly_roll, pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 2
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, pastry_roll]
+------------------------------------------
+pastry_roll is out of stock.
+------------------------------------------
+Inventry:
+------------------------------------------
+Day 7
+------------------------------------------
+customer.casual_customer is buying [egg_roll, pastry_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 30
+Number of Egg Roll: 29
+Number of Pastry Roll: 29
+Number of Sausage Roll: 29
+Number of Jelly Roll: 30
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 28
+Number of Egg Roll: 27
+Number of Pastry Roll: 27
+Number of Sausage Roll: 27
+Number of Jelly Roll: 28
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 26
+Number of Egg Roll: 25
+Number of Pastry Roll: 25
+Number of Sausage Roll: 25
+Number of Jelly Roll: 26
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 23
+Number of Pastry Roll: 23
+Number of Sausage Roll: 23
+Number of Jelly Roll: 24
+------------------------------------------
+customer.casual_customer is buying [egg_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 22
+Number of Pastry Roll: 23
+Number of Sausage Roll: 23
+Number of Jelly Roll: 23
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 21
+Number of Pastry Roll: 23
+Number of Sausage Roll: 22
+Number of Jelly Roll: 23
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 20
+Number of Pastry Roll: 23
+Number of Sausage Roll: 22
+Number of Jelly Roll: 23
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 20
+Number of Pastry Roll: 22
+Number of Sausage Roll: 22
+Number of Jelly Roll: 23
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 20
+Number of Pastry Roll: 21
+Number of Sausage Roll: 21
+Number of Jelly Roll: 23
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 20
+Number of Pastry Roll: 21
+Number of Sausage Roll: 21
+Number of Jelly Roll: 23
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 20
+Number of Pastry Roll: 20
+Number of Sausage Roll: 21
+Number of Jelly Roll: 23
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 19
+Number of Pastry Roll: 20
+Number of Sausage Roll: 21
+Number of Jelly Roll: 23
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 19
+Number of Pastry Roll: 20
+Number of Sausage Roll: 21
+Number of Jelly Roll: 22
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 18
+Number of Egg Roll: 19
+Number of Pastry Roll: 20
+Number of Sausage Roll: 16
+Number of Jelly Roll: 17
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 18
+Number of Egg Roll: 19
+Number of Pastry Roll: 20
+Number of Sausage Roll: 15
+Number of Jelly Roll: 16
+------------------------------------------
+Day 8
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 17
+Number of Egg Roll: 19
+Number of Pastry Roll: 19
+Number of Sausage Roll: 15
+Number of Jelly Roll: 16
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Egg Roll: 17
+Number of Pastry Roll: 17
+Number of Sausage Roll: 13
+Number of Jelly Roll: 14
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 10
+Number of Egg Roll: 12
+Number of Pastry Roll: 17
+Number of Sausage Roll: 8
+Number of Jelly Roll: 14
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 5
+Number of Egg Roll: 12
+Number of Pastry Roll: 17
+Number of Sausage Roll: 3
+Number of Jelly Roll: 9
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, jelly_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 4
+Number of Egg Roll: 12
+Number of Pastry Roll: 17
+Number of Sausage Roll: 2
+Number of Jelly Roll: 8
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 4
+Number of Egg Roll: 7
+Number of Pastry Roll: 12
+Number of Sausage Roll: 2
+Number of Jelly Roll: 3
+------------------------------------------
+Day 9
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 4
+Number of Egg Roll: 6
+Number of Pastry Roll: 12
+Number of Sausage Roll: 2
+Number of Jelly Roll: 3
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 2
+Number of Egg Roll: 4
+Number of Pastry Roll: 10
+Number of Jelly Roll: 1
+------------------------------------------
+jelly_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, spring_roll, spring_roll]
+------------------------------------------
+spring_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Egg Roll: 4
+Number of Pastry Roll: 10
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 4
+Number of Pastry Roll: 8
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 3
+Number of Pastry Roll: 8
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Egg Roll: 3
+Number of Pastry Roll: 8
+------------------------------------------
+customer.casual_customer is buying [egg_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 2
+Number of Pastry Roll: 7
+------------------------------------------
+egg_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [egg_roll, egg_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 6
+------------------------------------------
+pastry_roll is out of stock.
+------------------------------------------
+customer.catering_customer is buying [pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+------------------------------------------
+Day 10
+------------------------------------------
+customer.casual_customer is buying [spring_roll, jelly_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 29
+Number of Egg Roll: 30
+Number of Pastry Roll: 30
+Number of Sausage Roll: 29
+Number of Jelly Roll: 29
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 27
+Number of Egg Roll: 28
+Number of Pastry Roll: 28
+Number of Sausage Roll: 27
+Number of Jelly Roll: 27
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 27
+Number of Egg Roll: 23
+Number of Pastry Roll: 28
+Number of Sausage Roll: 22
+Number of Jelly Roll: 22
+------------------------------------------
+Day 11
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 27
+Number of Egg Roll: 21
+Number of Pastry Roll: 27
+Number of Sausage Roll: 22
+Number of Jelly Roll: 22
+------------------------------------------
+customer.casual_customer is buying [spring_roll, jelly_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 26
+Number of Egg Roll: 21
+Number of Pastry Roll: 26
+Number of Sausage Roll: 22
+Number of Jelly Roll: 21
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, spring_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Egg Roll: 21
+Number of Pastry Roll: 25
+Number of Sausage Roll: 21
+Number of Jelly Roll: 21
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 19
+Number of Pastry Roll: 23
+Number of Sausage Roll: 19
+Number of Jelly Roll: 19
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 19
+Number of Pastry Roll: 23
+Number of Sausage Roll: 18
+Number of Jelly Roll: 18
+------------------------------------------
+customer.casual_customer is buying [spring_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Egg Roll: 19
+Number of Pastry Roll: 23
+Number of Sausage Roll: 17
+Number of Jelly Roll: 18
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Egg Roll: 14
+Number of Pastry Roll: 23
+Number of Sausage Roll: 12
+Number of Jelly Roll: 13
+------------------------------------------
+customer.casual_customer is buying [spring_roll, sausage_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 21
+Number of Egg Roll: 14
+Number of Pastry Roll: 22
+Number of Sausage Roll: 11
+Number of Jelly Roll: 13
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 19
+Number of Egg Roll: 12
+Number of Pastry Roll: 20
+Number of Sausage Roll: 9
+Number of Jelly Roll: 11
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 14
+Number of Egg Roll: 12
+Number of Pastry Roll: 20
+Number of Sausage Roll: 4
+Number of Jelly Roll: 6
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 14
+Number of Egg Roll: 12
+Number of Pastry Roll: 19
+Number of Sausage Roll: 4
+Number of Jelly Roll: 5
+------------------------------------------
+Day 12
+------------------------------------------
+customer.casual_customer is buying [spring_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 13
+Number of Egg Roll: 12
+Number of Pastry Roll: 19
+Number of Sausage Roll: 4
+Number of Jelly Roll: 4
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 13
+Number of Egg Roll: 12
+Number of Pastry Roll: 18
+Number of Sausage Roll: 4
+Number of Jelly Roll: 4
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 12
+Number of Egg Roll: 12
+Number of Pastry Roll: 17
+Number of Sausage Roll: 3
+Number of Jelly Roll: 4
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 12
+Number of Egg Roll: 12
+Number of Pastry Roll: 17
+Number of Sausage Roll: 3
+Number of Jelly Roll: 2
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+jelly_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 10
+Number of Egg Roll: 10
+Number of Pastry Roll: 15
+Number of Sausage Roll: 1
+------------------------------------------
+customer.catering_customer is buying [pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 5
+Number of Egg Roll: 5
+Number of Pastry Roll: 10
+Number of Sausage Roll: 1
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, pastry_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 5
+Number of Egg Roll: 4
+Number of Pastry Roll: 9
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 5
+Number of Egg Roll: 4
+Number of Pastry Roll: 8
+------------------------------------------
+customer.casual_customer is buying [spring_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 4
+Number of Egg Roll: 3
+Number of Pastry Roll: 8
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 3
+Number of Pastry Roll: 8
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 2
+Number of Egg Roll: 3
+Number of Pastry Roll: 8
+------------------------------------------
+customer.casual_customer is buying [egg_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Egg Roll: 2
+Number of Pastry Roll: 8
+------------------------------------------
+Day 13
+------------------------------------------
+spring_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [spring_roll, sausage_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 2
+Number of Pastry Roll: 8
+Number of Sausage Roll: 28
+Number of Jelly Roll: 30
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 1
+Number of Pastry Roll: 8
+Number of Sausage Roll: 27
+Number of Jelly Roll: 30
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Egg Roll: 1
+Number of Pastry Roll: 8
+Number of Sausage Roll: 27
+Number of Jelly Roll: 30
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 1
+Number of Pastry Roll: 3
+Number of Sausage Roll: 22
+Number of Jelly Roll: 25
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, egg_roll]
+------------------------------------------
+egg_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Pastry Roll: 2
+Number of Sausage Roll: 22
+Number of Jelly Roll: 25
+------------------------------------------
+pastry_roll is out of stock.
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, jelly_roll, pastry_roll, pastry_roll, sausage_roll, jelly_roll, sausage_roll, jelly_roll, sausage_roll, sausage_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Sausage Roll: 15
+Number of Jelly Roll: 19
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Sausage Roll: 13
+Number of Jelly Roll: 19
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Sausage Roll: 11
+Number of Jelly Roll: 19
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Sausage Roll: 10
+Number of Jelly Roll: 18
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Sausage Roll: 8
+Number of Jelly Roll: 18
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Sausage Roll: 8
+Number of Jelly Roll: 18
+------------------------------------------
+Day 14
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 28
+Number of Egg Roll: 28
+Number of Pastry Roll: 28
+Number of Sausage Roll: 6
+Number of Jelly Roll: 16
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 28
+Number of Egg Roll: 28
+Number of Pastry Roll: 27
+Number of Sausage Roll: 5
+Number of Jelly Roll: 16
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 27
+Number of Egg Roll: 28
+Number of Pastry Roll: 27
+Number of Sausage Roll: 4
+Number of Jelly Roll: 15
+------------------------------------------
+customer.catering_customer is buying [pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Egg Roll: 23
+Number of Pastry Roll: 22
+Number of Sausage Roll: 4
+Number of Jelly Roll: 15
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Egg Roll: 23
+Number of Pastry Roll: 22
+Number of Sausage Roll: 4
+Number of Jelly Roll: 14
+------------------------------------------
+customer.catering_customer is buying [pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 17
+Number of Egg Roll: 18
+Number of Pastry Roll: 17
+Number of Sausage Roll: 4
+Number of Jelly Roll: 14
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 17
+Number of Egg Roll: 18
+Number of Pastry Roll: 15
+Number of Sausage Roll: 3
+Number of Jelly Roll: 14
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 17
+Number of Egg Roll: 18
+Number of Pastry Roll: 14
+Number of Sausage Roll: 3
+Number of Jelly Roll: 14
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, pastry_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 16
+Number of Egg Roll: 18
+Number of Pastry Roll: 12
+Number of Sausage Roll: 3
+Number of Jelly Roll: 14
+------------------------------------------
+Day 15
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 14
+Number of Egg Roll: 16
+Number of Pastry Roll: 10
+Number of Sausage Roll: 1
+Number of Jelly Roll: 12
+------------------------------------------
+customer.casual_customer is buying [egg_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 14
+Number of Egg Roll: 15
+Number of Pastry Roll: 10
+Number of Sausage Roll: 1
+Number of Jelly Roll: 11
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 9
+Number of Egg Roll: 15
+Number of Pastry Roll: 5
+Number of Sausage Roll: 1
+Number of Jelly Roll: 6
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 4
+Number of Egg Roll: 10
+Number of Pastry Roll: 5
+Number of Sausage Roll: 1
+Number of Jelly Roll: 1
+------------------------------------------
+jelly_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [spring_roll, jelly_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 9
+Number of Pastry Roll: 5
+Number of Sausage Roll: 1
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 2
+Number of Egg Roll: 9
+Number of Pastry Roll: 5
+------------------------------------------
+customer.casual_customer is buying [spring_roll, spring_roll]
+------------------------------------------
+spring_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Egg Roll: 9
+Number of Pastry Roll: 5
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 9
+Number of Pastry Roll: 4
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 8
+Number of Pastry Roll: 3
+------------------------------------------
+customer.casual_customer is buying [egg_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 7
+Number of Pastry Roll: 2
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 6
+Number of Pastry Roll: 1
+------------------------------------------
+Day 16
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Egg Roll: 1
+Number of Pastry Roll: 1
+Number of Sausage Roll: 30
+Number of Jelly Roll: 25
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Egg Roll: 1
+Number of Pastry Roll: 1
+Number of Sausage Roll: 30
+Number of Jelly Roll: 25
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Egg Roll: 1
+Number of Pastry Roll: 1
+Number of Sausage Roll: 30
+Number of Jelly Roll: 25
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+egg_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Pastry Roll: 1
+Number of Sausage Roll: 30
+Number of Jelly Roll: 25
+------------------------------------------
+Day 17
+------------------------------------------
+customer.casual_customer is buying [egg_roll, jelly_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Egg Roll: 28
+Number of Pastry Roll: 1
+Number of Sausage Roll: 30
+Number of Jelly Roll: 24
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Egg Roll: 28
+Number of Pastry Roll: 1
+Number of Sausage Roll: 30
+Number of Jelly Roll: 24
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 20
+Number of Egg Roll: 23
+Number of Pastry Roll: 1
+Number of Sausage Roll: 30
+Number of Jelly Roll: 19
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 20
+Number of Egg Roll: 23
+Number of Pastry Roll: 1
+Number of Sausage Roll: 30
+Number of Jelly Roll: 19
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 20
+Number of Egg Roll: 23
+Number of Pastry Roll: 1
+Number of Sausage Roll: 30
+Number of Jelly Roll: 18
+------------------------------------------
+Day 18
+------------------------------------------
+customer.casual_customer is buying [egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 20
+Number of Egg Roll: 21
+Number of Pastry Roll: 1
+Number of Sausage Roll: 30
+Number of Jelly Roll: 18
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 20
+Number of Egg Roll: 20
+Number of Pastry Roll: 1
+Number of Sausage Roll: 29
+Number of Jelly Roll: 18
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 20
+Number of Egg Roll: 20
+Number of Pastry Roll: 1
+Number of Sausage Roll: 29
+Number of Jelly Roll: 18
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Egg Roll: 20
+Number of Pastry Roll: 1
+Number of Sausage Roll: 24
+Number of Jelly Roll: 13
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Egg Roll: 20
+Number of Pastry Roll: 1
+Number of Sausage Roll: 24
+Number of Jelly Roll: 13
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Egg Roll: 20
+Number of Pastry Roll: 1
+Number of Sausage Roll: 24
+Number of Jelly Roll: 13
+------------------------------------------
+pastry_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Egg Roll: 18
+Number of Sausage Roll: 24
+Number of Jelly Roll: 13
+------------------------------------------
+customer.casual_customer is buying [sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Egg Roll: 18
+Number of Sausage Roll: 23
+Number of Jelly Roll: 13
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 14
+Number of Egg Roll: 18
+Number of Sausage Roll: 22
+Number of Jelly Roll: 13
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 14
+Number of Egg Roll: 17
+Number of Sausage Roll: 21
+Number of Jelly Roll: 13
+------------------------------------------
+customer.casual_customer is buying [spring_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 13
+Number of Egg Roll: 16
+Number of Sausage Roll: 21
+Number of Jelly Roll: 13
+------------------------------------------
+customer.casual_customer is buying [sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 13
+Number of Egg Roll: 16
+Number of Sausage Roll: 20
+Number of Jelly Roll: 13
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, spring_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 12
+Number of Egg Roll: 15
+Number of Sausage Roll: 20
+Number of Jelly Roll: 12
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 11
+Number of Egg Roll: 15
+Number of Sausage Roll: 20
+Number of Jelly Roll: 12
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, sausage_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 11
+Number of Egg Roll: 15
+Number of Sausage Roll: 18
+Number of Jelly Roll: 11
+------------------------------------------
+Day 19
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 6
+Number of Egg Roll: 15
+Number of Pastry Roll: 25
+Number of Sausage Roll: 13
+Number of Jelly Roll: 11
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 5
+Number of Egg Roll: 15
+Number of Pastry Roll: 25
+Number of Sausage Roll: 12
+Number of Jelly Roll: 11
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 13
+Number of Pastry Roll: 23
+Number of Sausage Roll: 10
+Number of Jelly Roll: 9
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 12
+Number of Pastry Roll: 23
+Number of Sausage Roll: 9
+Number of Jelly Roll: 9
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 2
+Number of Egg Roll: 12
+Number of Pastry Roll: 23
+Number of Sausage Roll: 9
+Number of Jelly Roll: 9
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 2
+Number of Egg Roll: 12
+Number of Pastry Roll: 22
+Number of Sausage Roll: 8
+Number of Jelly Roll: 9
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Egg Roll: 12
+Number of Pastry Roll: 21
+Number of Sausage Roll: 8
+Number of Jelly Roll: 9
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Egg Roll: 7
+Number of Pastry Roll: 16
+Number of Sausage Roll: 3
+Number of Jelly Roll: 9
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, jelly_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Egg Roll: 7
+Number of Pastry Roll: 16
+Number of Sausage Roll: 1
+Number of Jelly Roll: 8
+------------------------------------------
+spring_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [spring_roll, jelly_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 7
+Number of Pastry Roll: 15
+Number of Sausage Roll: 1
+Number of Jelly Roll: 7
+------------------------------------------
+Day 20
+------------------------------------------
+customer.casual_customer is buying [egg_roll, pastry_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 30
+Number of Egg Roll: 5
+Number of Pastry Roll: 14
+Number of Sausage Roll: 1
+Number of Jelly Roll: 7
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 30
+Number of Egg Roll: 5
+Number of Pastry Roll: 14
+Number of Sausage Roll: 1
+Number of Jelly Roll: 6
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 29
+Number of Egg Roll: 5
+Number of Pastry Roll: 13
+Number of Jelly Roll: 6
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 29
+Number of Egg Roll: 5
+Number of Pastry Roll: 11
+Number of Jelly Roll: 5
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 29
+Number of Egg Roll: 4
+Number of Pastry Roll: 11
+Number of Jelly Roll: 5
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll]
+------------------------------------------
+jelly_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 4
+Number of Pastry Roll: 6
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 4
+Number of Pastry Roll: 5
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 4
+Number of Pastry Roll: 5
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, pastry_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 3
+Number of Pastry Roll: 3
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 3
+Number of Pastry Roll: 3
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 3
+Number of Pastry Roll: 2
+------------------------------------------
+customer.casual_customer is buying [spring_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Egg Roll: 2
+Number of Pastry Roll: 2
+------------------------------------------
+Day 21
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, spring_roll, pastry_roll]
+------------------------------------------
+pastry_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 21
+Number of Egg Roll: 2
+Number of Sausage Roll: 30
+Number of Jelly Roll: 30
+------------------------------------------
+customer.casual_customer is buying [spring_roll, jelly_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 20
+Number of Egg Roll: 2
+Number of Sausage Roll: 29
+Number of Jelly Roll: 29
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 19
+Number of Egg Roll: 2
+Number of Sausage Roll: 27
+Number of Jelly Roll: 29
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 18
+Number of Egg Roll: 2
+Number of Sausage Roll: 27
+Number of Jelly Roll: 28
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 13
+Number of Egg Roll: 2
+Number of Sausage Roll: 22
+Number of Jelly Roll: 23
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 8
+Number of Egg Roll: 2
+Number of Sausage Roll: 17
+Number of Jelly Roll: 18
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, jelly_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 8
+Number of Egg Roll: 2
+Number of Sausage Roll: 16
+Number of Jelly Roll: 16
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 7
+Number of Egg Roll: 2
+Number of Sausage Roll: 16
+Number of Jelly Roll: 16
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 7
+Number of Egg Roll: 2
+Number of Sausage Roll: 16
+Number of Jelly Roll: 16
+------------------------------------------
+customer.casual_customer is buying [egg_roll, egg_roll]
+------------------------------------------
+egg_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 7
+Number of Sausage Roll: 16
+Number of Jelly Roll: 16
+------------------------------------------
+customer.casual_customer is buying [spring_roll, spring_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 5
+Number of Sausage Roll: 16
+Number of Jelly Roll: 15
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 4
+Number of Sausage Roll: 16
+Number of Jelly Roll: 15
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Sausage Roll: 16
+Number of Jelly Roll: 14
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Sausage Roll: 15
+Number of Jelly Roll: 13
+------------------------------------------
+Day 22
+------------------------------------------
+customer.casual_customer is buying [egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 28
+Number of Pastry Roll: 30
+Number of Sausage Roll: 15
+Number of Jelly Roll: 13
+------------------------------------------
+customer.casual_customer is buying [sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 28
+Number of Pastry Roll: 30
+Number of Sausage Roll: 14
+Number of Jelly Roll: 13
+------------------------------------------
+customer.casual_customer is buying [sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 28
+Number of Pastry Roll: 30
+Number of Sausage Roll: 13
+Number of Jelly Roll: 13
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 28
+Number of Pastry Roll: 25
+Number of Sausage Roll: 8
+Number of Jelly Roll: 8
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 23
+Number of Pastry Roll: 20
+Number of Sausage Roll: 8
+Number of Jelly Roll: 3
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 18
+Number of Pastry Roll: 15
+Number of Sausage Roll: 3
+Number of Jelly Roll: 3
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Egg Roll: 16
+Number of Pastry Roll: 13
+Number of Sausage Roll: 1
+Number of Jelly Roll: 1
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Egg Roll: 16
+Number of Pastry Roll: 13
+Number of Sausage Roll: 1
+Number of Jelly Roll: 1
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Egg Roll: 15
+Number of Pastry Roll: 13
+Number of Sausage Roll: 1
+Number of Jelly Roll: 1
+------------------------------------------
+Day 23
+------------------------------------------
+spring_roll is out of stock.
+------------------------------------------
+jelly_roll is out of stock.
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+customer.catering_customer is buying [spring_roll, pastry_roll, pastry_roll, egg_roll, pastry_roll, egg_roll, jelly_roll, egg_roll, pastry_roll, egg_roll, sausage_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 11
+Number of Pastry Roll: 5
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 10
+Number of Pastry Roll: 5
+------------------------------------------
+pastry_roll is out of stock.
+------------------------------------------
+customer.catering_customer is buying [pastry_roll, egg_roll, pastry_roll, egg_roll, egg_roll, pastry_roll, pastry_roll, pastry_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+egg_roll is out of stock.
+------------------------------------------
+Inventry:
+------------------------------------------
+Day 24
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 30
+Number of Egg Roll: 25
+Number of Pastry Roll: 30
+Number of Sausage Roll: 25
+Number of Jelly Roll: 25
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 30
+Number of Egg Roll: 20
+Number of Pastry Roll: 25
+Number of Sausage Roll: 20
+Number of Jelly Roll: 25
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 28
+Number of Egg Roll: 18
+Number of Pastry Roll: 23
+Number of Sausage Roll: 18
+Number of Jelly Roll: 23
+------------------------------------------
+customer.casual_customer is buying [spring_roll, sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 26
+Number of Egg Roll: 18
+Number of Pastry Roll: 23
+Number of Sausage Roll: 17
+Number of Jelly Roll: 23
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Egg Roll: 18
+Number of Pastry Roll: 23
+Number of Sausage Roll: 15
+Number of Jelly Roll: 23
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Egg Roll: 18
+Number of Pastry Roll: 22
+Number of Sausage Roll: 15
+Number of Jelly Roll: 23
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 16
+Number of Pastry Roll: 20
+Number of Sausage Roll: 13
+Number of Jelly Roll: 21
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, spring_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Egg Roll: 16
+Number of Pastry Roll: 19
+Number of Sausage Roll: 13
+Number of Jelly Roll: 20
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 17
+Number of Egg Roll: 16
+Number of Pastry Roll: 19
+Number of Sausage Roll: 8
+Number of Jelly Roll: 15
+------------------------------------------
+Day 25
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Egg Roll: 14
+Number of Pastry Roll: 17
+Number of Sausage Roll: 6
+Number of Jelly Roll: 13
+------------------------------------------
+customer.casual_customer is buying [egg_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Egg Roll: 13
+Number of Pastry Roll: 17
+Number of Sausage Roll: 6
+Number of Jelly Roll: 12
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Egg Roll: 12
+Number of Pastry Roll: 17
+Number of Sausage Roll: 6
+Number of Jelly Roll: 12
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 10
+Number of Egg Roll: 12
+Number of Pastry Roll: 17
+Number of Sausage Roll: 1
+Number of Jelly Roll: 7
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 10
+Number of Egg Roll: 12
+Number of Pastry Roll: 16
+Number of Sausage Roll: 1
+Number of Jelly Roll: 7
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 10
+Number of Egg Roll: 12
+Number of Pastry Roll: 16
+Number of Sausage Roll: 1
+Number of Jelly Roll: 6
+------------------------------------------
+customer.catering_customer is buying [pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 5
+Number of Egg Roll: 7
+Number of Pastry Roll: 11
+Number of Sausage Roll: 1
+Number of Jelly Roll: 6
+------------------------------------------
+customer.casual_customer is buying [spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 7
+Number of Pastry Roll: 11
+Number of Sausage Roll: 1
+Number of Jelly Roll: 6
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 7
+Number of Pastry Roll: 11
+Number of Sausage Roll: 1
+Number of Jelly Roll: 6
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 2
+Number of Egg Roll: 7
+Number of Pastry Roll: 11
+Number of Jelly Roll: 6
+------------------------------------------
+spring_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [spring_roll, spring_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 6
+Number of Pastry Roll: 11
+Number of Jelly Roll: 6
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Egg Roll: 6
+Number of Pastry Roll: 11
+Number of Jelly Roll: 6
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 6
+Number of Pastry Roll: 10
+Number of Jelly Roll: 6
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 6
+Number of Pastry Roll: 9
+Number of Jelly Roll: 6
+------------------------------------------
+Day 26
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 28
+Number of Egg Roll: 6
+Number of Pastry Roll: 9
+Number of Sausage Roll: 29
+Number of Jelly Roll: 6
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 28
+Number of Egg Roll: 1
+Number of Pastry Roll: 4
+Number of Sausage Roll: 24
+Number of Jelly Roll: 6
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 28
+Number of Egg Roll: 1
+Number of Pastry Roll: 4
+Number of Sausage Roll: 24
+Number of Jelly Roll: 6
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+egg_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 28
+Number of Pastry Roll: 4
+Number of Sausage Roll: 24
+Number of Jelly Roll: 6
+Inventry not satified by the Business Customer.
+------------------------------------------
+customer.business_customer is buying []
+------------------------------------------
+Inventry:
+Number of Spring Roll: 28
+Number of Pastry Roll: 4
+Number of Sausage Roll: 24
+Number of Jelly Roll: 6
+------------------------------------------
+customer.casual_customer is buying [spring_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 27
+Number of Pastry Roll: 4
+Number of Sausage Roll: 23
+Number of Jelly Roll: 6
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 26
+Number of Pastry Roll: 4
+Number of Sausage Roll: 23
+Number of Jelly Roll: 6
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 26
+Number of Pastry Roll: 4
+Number of Sausage Roll: 22
+Number of Jelly Roll: 5
+------------------------------------------
+Day 27
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, pastry_roll, pastry_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 28
+Number of Pastry Roll: 2
+Number of Sausage Roll: 20
+Number of Jelly Roll: 3
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Egg Roll: 28
+Number of Pastry Roll: 1
+Number of Sausage Roll: 20
+Number of Jelly Roll: 3
+------------------------------------------
+customer.casual_customer is buying [spring_roll, egg_roll, pastry_roll]
+------------------------------------------
+pastry_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 27
+Number of Sausage Roll: 20
+Number of Jelly Roll: 3
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Egg Roll: 27
+Number of Sausage Roll: 20
+Number of Jelly Roll: 1
+------------------------------------------
+customer.casual_customer is buying [spring_roll, jelly_roll]
+------------------------------------------
+jelly_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Egg Roll: 27
+Number of Sausage Roll: 20
+------------------------------------------
+customer.casual_customer is buying [egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Egg Roll: 25
+Number of Sausage Roll: 20
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 21
+Number of Egg Roll: 25
+Number of Sausage Roll: 20
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 21
+Number of Egg Roll: 24
+Number of Sausage Roll: 20
+------------------------------------------
+customer.casual_customer is buying [sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 21
+Number of Egg Roll: 24
+Number of Sausage Roll: 19
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 20
+Number of Egg Roll: 24
+Number of Sausage Roll: 19
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Egg Roll: 19
+Number of Sausage Roll: 14
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 14
+Number of Egg Roll: 19
+Number of Sausage Roll: 13
+------------------------------------------
+customer.casual_customer is buying [sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 14
+Number of Egg Roll: 19
+Number of Sausage Roll: 12
+------------------------------------------
+customer.casual_customer is buying [spring_roll, sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 12
+Number of Egg Roll: 19
+Number of Sausage Roll: 11
+------------------------------------------
+Day 28
+------------------------------------------
+customer.casual_customer is buying [sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 12
+Number of Egg Roll: 19
+Number of Pastry Roll: 30
+Number of Sausage Roll: 10
+Number of Jelly Roll: 30
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 12
+Number of Egg Roll: 19
+Number of Pastry Roll: 30
+Number of Sausage Roll: 10
+Number of Jelly Roll: 29
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 10
+Number of Egg Roll: 17
+Number of Pastry Roll: 28
+Number of Sausage Roll: 8
+Number of Jelly Roll: 27
+------------------------------------------
+customer.casual_customer is buying [egg_roll, sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 9
+Number of Egg Roll: 16
+Number of Pastry Roll: 28
+Number of Sausage Roll: 7
+Number of Jelly Roll: 27
+------------------------------------------
+customer.casual_customer is buying [egg_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 9
+Number of Egg Roll: 15
+Number of Pastry Roll: 28
+Number of Sausage Roll: 7
+Number of Jelly Roll: 26
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 7
+Number of Egg Roll: 13
+Number of Pastry Roll: 26
+Number of Sausage Roll: 5
+Number of Jelly Roll: 24
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 5
+Number of Egg Roll: 11
+Number of Pastry Roll: 24
+Number of Sausage Roll: 3
+Number of Jelly Roll: 22
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, spring_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 4
+Number of Egg Roll: 11
+Number of Pastry Roll: 24
+Number of Sausage Roll: 3
+Number of Jelly Roll: 20
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 4
+Number of Egg Roll: 6
+Number of Pastry Roll: 19
+Number of Sausage Roll: 3
+Number of Jelly Roll: 15
+------------------------------------------
+customer.casual_customer is buying [sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 4
+Number of Egg Roll: 6
+Number of Pastry Roll: 19
+Number of Sausage Roll: 2
+Number of Jelly Roll: 15
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, spring_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 6
+Number of Pastry Roll: 18
+Number of Sausage Roll: 1
+Number of Jelly Roll: 15
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 6
+Number of Pastry Roll: 17
+Number of Jelly Roll: 15
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Egg Roll: 5
+Number of Pastry Roll: 16
+Number of Jelly Roll: 15
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, egg_roll, egg_roll, egg_roll, egg_roll, egg_roll]
+------------------------------------------
+egg_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Pastry Roll: 11
+Number of Jelly Roll: 10
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Pastry Roll: 11
+Number of Jelly Roll: 8
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, pastry_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Pastry Roll: 8
+Number of Jelly Roll: 8
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 3
+Number of Pastry Roll: 8
+Number of Jelly Roll: 7
+------------------------------------------
+Day 29
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Egg Roll: 28
+Number of Pastry Roll: 6
+Number of Sausage Roll: 28
+Number of Jelly Roll: 5
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 1
+Number of Egg Roll: 27
+Number of Pastry Roll: 6
+Number of Sausage Roll: 28
+Number of Jelly Roll: 5
+------------------------------------------
+spring_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, spring_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 27
+Number of Pastry Roll: 6
+Number of Sausage Roll: 28
+Number of Jelly Roll: 3
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 27
+Number of Pastry Roll: 5
+Number of Sausage Roll: 28
+Number of Jelly Roll: 3
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, jelly_roll, pastry_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 27
+Number of Pastry Roll: 3
+Number of Sausage Roll: 28
+Number of Jelly Roll: 2
+------------------------------------------
+jelly_roll is out of stock.
+------------------------------------------
+customer.catering_customer is buying [pastry_roll, pastry_roll, sausage_roll, jelly_roll, jelly_roll, egg_roll, sausage_roll, sausage_roll, egg_roll, sausage_roll, egg_roll, egg_roll, egg_roll, egg_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 21
+Number of Pastry Roll: 1
+Number of Sausage Roll: 23
+------------------------------------------
+pastry_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [pastry_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 20
+Number of Sausage Roll: 23
+------------------------------------------
+customer.casual_customer is buying [egg_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 19
+Number of Sausage Roll: 22
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 18
+Number of Sausage Roll: 21
+------------------------------------------
+customer.catering_customer is buying [sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, sausage_roll, egg_roll, egg_roll, egg_roll, egg_roll, sausage_roll, egg_roll, egg_roll, sausage_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 12
+Number of Sausage Roll: 12
+------------------------------------------
+customer.casual_customer is buying [egg_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 9
+Number of Sausage Roll: 12
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, egg_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 8
+Number of Sausage Roll: 10
+------------------------------------------
+customer.casual_customer is buying [egg_roll, egg_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 6
+Number of Sausage Roll: 9
+------------------------------------------
+customer.casual_customer is buying [egg_roll, sausage_roll]
+------------------------------------------
+Inventry:
+Number of Egg Roll: 5
+Number of Sausage Roll: 8
+------------------------------------------
+Day 30
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 29
+Number of Egg Roll: 4
+Number of Pastry Roll: 30
+Number of Sausage Roll: 7
+Number of Jelly Roll: 30
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 28
+Number of Egg Roll: 4
+Number of Pastry Roll: 30
+Number of Sausage Roll: 6
+Number of Jelly Roll: 30
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 28
+Number of Egg Roll: 4
+Number of Pastry Roll: 30
+Number of Sausage Roll: 6
+Number of Jelly Roll: 29
+------------------------------------------
+customer.casual_customer is buying [egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 28
+Number of Egg Roll: 3
+Number of Pastry Roll: 30
+Number of Sausage Roll: 6
+Number of Jelly Roll: 29
+------------------------------------------
+customer.casual_customer is buying [spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 27
+Number of Egg Roll: 3
+Number of Pastry Roll: 30
+Number of Sausage Roll: 6
+Number of Jelly Roll: 29
+------------------------------------------
+customer.casual_customer is buying [jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 27
+Number of Egg Roll: 3
+Number of Pastry Roll: 30
+Number of Sausage Roll: 6
+Number of Jelly Roll: 28
+------------------------------------------
+customer.business_customer is buying [jelly_roll, jelly_roll, sausage_roll, sausage_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, egg_roll, egg_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Egg Roll: 1
+Number of Pastry Roll: 28
+Number of Sausage Roll: 4
+Number of Jelly Roll: 26
+------------------------------------------
+customer.casual_customer is buying [pastry_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 25
+Number of Egg Roll: 1
+Number of Pastry Roll: 27
+Number of Sausage Roll: 4
+Number of Jelly Roll: 26
+------------------------------------------
+customer.casual_customer is buying [spring_roll, sausage_roll, egg_roll]
+------------------------------------------
+egg_roll is out of stock.
+------------------------------------------
+Inventry:
+Number of Spring Roll: 24
+Number of Pastry Roll: 27
+Number of Sausage Roll: 3
+Number of Jelly Roll: 26
+------------------------------------------
+customer.casual_customer is buying [jelly_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 23
+Number of Pastry Roll: 27
+Number of Sausage Roll: 3
+Number of Jelly Roll: 25
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Pastry Roll: 27
+Number of Sausage Roll: 2
+Number of Jelly Roll: 24
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, jelly_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 22
+Number of Pastry Roll: 27
+Number of Sausage Roll: 1
+Number of Jelly Roll: 23
+------------------------------------------
+customer.catering_customer is buying [jelly_roll, jelly_roll, jelly_roll, jelly_roll, jelly_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, pastry_roll, spring_roll, spring_roll, spring_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 17
+Number of Pastry Roll: 22
+Number of Sausage Roll: 1
+Number of Jelly Roll: 18
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+customer.casual_customer is buying [sausage_roll, spring_roll, spring_roll]
+------------------------------------------
+Inventry:
+Number of Spring Roll: 15
+Number of Pastry Roll: 22
+Number of Jelly Roll: 18
+Testing decorator...
+OK.
+Testing prepare_roll function...
+OK.
+Testing sell function...
+OK.
+Testing business_customer...
+OK.
+Testing business_customer...
+Inventry not satified by the Business Customer.
+OK.
+Testing catering_customer...
+OK.
+Testing catering_customer...
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+spring_roll is out of stock.
+------------------------------------------
+jelly_roll is out of stock.
+OK.
+Testing casual_customer...
+------------------------------------------
+spring_roll is out of stock.
+------------------------------------------
+egg_roll is out of stock.
+------------------------------------------
+pastry_roll is out of stock.
+------------------------------------------
+sausage_roll is out of stock.
+------------------------------------------
+jelly_roll is out of stock.
+OK.
+Testing factory...
+OK.
+Testing check_inventry...
+OK.
