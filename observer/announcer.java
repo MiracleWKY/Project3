@@ -38,10 +38,10 @@ public class announcer implements observer
             System.out.printf("Number of Jelly Roll: %d\n", inventry.get("jelly_roll").size());
         }
     }
-    public void announce_action(customer c)
+    public void announce_action(customer c, double cost)
     {
         System.out.println("------------------------------------------");
-        System.out.printf("%s is buying ", c.getClass().getName());
+        System.out.printf("%s is paying $%f to buy ", c.getClass().getName(), cost);
         System.out.println(c.order);
     }
     public void announce_out(String type)

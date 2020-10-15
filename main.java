@@ -49,6 +49,9 @@ public class main
             int num1 = rand.nextInt(12);
             int num2 = rand.nextInt(3);
             int num3 = rand.nextInt(3);
+
+            int orders_count = 0;
+            double income = 0.0;
             for(int i = 0; i <= num1; i++)
             {
                 customer c = new casual_customer(s); 
@@ -64,15 +67,33 @@ public class main
                 customer c = new catering_customer(s); 
                 customers.add(c);
             }
-            while(s.inventry.keySet().size()>0 && customers.size()>0)
+            while(customers.size()>0)
             {
+                if(s.inventry.keySet().size() == 0)
+                {
+                    System.out.println("Store is closed due to out of inventry");
+                    break;
+                }
                 //System.out.println(s.inventry.keySet().size());
                 customer cust = customers.remove(rand.nextInt(customers.size()));
                 List<String> order = cust.generate_order();
-                a.announce_action(cust);
+                double cost = 0;
+                if(cust.rolls.size()>0)
+                {
+                    orders_count ++;
+                    for(int i = 0; i<cust.rolls.size(); i++)
+                    {
+                        //System.out.println(cust.rolls);
+                        cost += cust.rolls.get(i).get_price();
+                    }
+                }
+                income += cost;
+                    
+                a.announce_action(cust, cost);
                 s.check_inventry();
-                a.announce_inventry(s.inventry);
+                //a.announce_inventry(s.inventry);
             }
+            System.out.printf("This day tooks %d orders and earned a income of %f\n", orders_count, income);
             if(s.inventry.get("spring_roll") == null)
             {
                 s.prepare_rolls(30, 0, 0, 0, 0);
